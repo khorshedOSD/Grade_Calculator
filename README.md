@@ -1,2 +1,1 @@
-# Grade_Calculator
-Python Project
+python class
